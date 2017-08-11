@@ -1,0 +1,58 @@
+=== Digigroup Fb Fancy Gallery ===
+
+Contributors: digigroup
+Donate link: 
+Tags: facebook, photos, album, graphapi, fancybox2, json, ajax, fanpage
+Requires at least: 3.0
+Tested up to: 3.4.1
+Stable tag: 0.1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+This plugin displays all public albums of a Facebook Page displays your photos using Fancybox 2 Thumbnail helper
+
+== Description ==
+This plugin displays all public albums of a Facebook Page displays your photos using Fancybox 2 Thumbnail helper
+
+= Requirements =
+* Wordpress 3.1 or higher
+* PHP5 or higher
+* jQuery 1.7 or higher
+
+= Language =
+
+* Digigroup Fb Fancy Gallery is currently available in Portuguese
+
+== Installation ==
+
+1. Upload `digigroup-fb-fancy-gallery` to the `/wp-content/plugins/` directory
+
+2. Activate the plugin through the 'Plugins' menu in WordPress
+
+3. Insert `[dgfbfancygallery  fanpage_id="110387505694717"]` in your page or post
+
+== Frequently Asked Questions ==
+
+= Where this plugin is being used? =
+
+http://sauloprefeito55.com.br/galeria-de-fotos/
+
+= Because we developed this plugin? =
+
+No other in delight!
+
+== Screenshots ==
+
+1. Digigroup Fb Fancy Gallery shortcode 
+2. Digigroup Fb Fancy Gallery in Page 
+3. Fancybox 2 Thumbnail Helper 
+
+== Changelog ==
+
+= 0.1 =
+* First public release
+
+== Upgrade Notice ==
+
+= 0.1 =
+* First public release

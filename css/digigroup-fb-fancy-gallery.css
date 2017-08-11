@@ -1,0 +1,38 @@
+/*Style for fb-gallery-view*/
+.fancybox-custom .fancybox-skin {
+	box-shadow: 0 0 50px #222;
+}
+		
+#dgffg_main_container {
+	
+}
+
+#dgffg_gallery_container_items,
+#dgffg_details_album ul {
+	overflow: hidden;
+	list-style: none;
+}
+
+#dgffg_gallery_container_items li,
+#dgffg_details_album ul li {
+	float: left;
+	margin: 10px;
+}
+
+#dgffg_gallery_container_items li {
+	width: 130px;
+	height: 180px;
+}
+
+#dgffg_details_album ul li {
+	width: 130px;
+	height: 130px;
+}
+
+#dgffg_gallery_container_items img {
+	
+}
+
+#dgffg_gallery_container_items a {
+	
+}
